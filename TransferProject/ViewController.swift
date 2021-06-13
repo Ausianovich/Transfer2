@@ -18,5 +18,6 @@ class ViewController: UIViewController {
     
     //Branch 1. Commit 2
 
+    //Branch 2. Commit 3
 }
 
